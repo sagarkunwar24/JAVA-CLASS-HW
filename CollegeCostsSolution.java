@@ -97,6 +97,7 @@ public class CollegeCostsSolution {
         catch(Exception e)
         {
             System.out.println("Invalid data type.");
+		//printStackTrace() helps the programmer to understand where the actual problem occurred
             e.printStackTrace();
         }
         finally
