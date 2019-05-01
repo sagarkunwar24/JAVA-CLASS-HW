@@ -29,3 +29,12 @@ public class Circle extends Shape {
         System.out.println("The area of the rectangle is: "+ area);
     }
 }
+public class Main{
+    public static void main(String []args){
+    
+            Rectangle rec = new Rectangle();
+            Circle cic = new Curcle();
+            rec.area();
+            cic.area();
+    }
+}
