@@ -19,3 +19,6 @@ Q: What is the different between JDK, JRE and JVM?
 • java.util - for data structures, regular expressions, date and time functions etc.
    
 • java.io - for file i/o, exception handling etc
+
+
+For references: https://www.programiz.com/java-programming
