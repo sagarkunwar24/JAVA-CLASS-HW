@@ -12,3 +12,10 @@ Q: What is the different between JDK, JRE and JVM?
             JDK is the tool necessary to compile, document and package Java programs. 
           The JDK completely includes JRE
 
+## Large Standard Library
+
+• java.lang - for advanced features of strings, arrays etc.
+   
+• java.util - for data structures, regular expressions, date and time functions etc.
+   
+• java.io - for file i/o, exception handling etc
